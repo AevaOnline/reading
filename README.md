@@ -1,14 +1,13 @@
-# Reading Materials
+# Library // Archive //
 
-This repo contains copies of publications and papers
-that I have read so that I can find them again later.
+This repository contains copies of publications and papers that I have read, or
+plan to read soon.
 
-I do not own the copyright to any of these.
+I do not own the copyright to any of these -- nor do I track whether they are
+copyright or not. I make no guarantees whatsoever about any of this content. 
 
-Where reasonable, I'll maintain an index of the sources from where I
-downloaded things. However, for historical reasons, a lot of these files don't
-have attribution attached. 
+Inclusion in this repository does not constitute endorsement or agreement.
 
-This repository is NOT intended for distribution, but only as an archive
-of things I've read. Again, I don't claim ownership over any of this.
+This repository is not intended for distribution, but only as an archive for my
+own use.
 
